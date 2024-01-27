@@ -1,0 +1,8 @@
+.sel{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+.sel label {
+    margin-right: 5px;
+}
